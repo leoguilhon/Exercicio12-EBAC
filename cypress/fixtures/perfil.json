@@ -1,0 +1,14 @@
+{
+  "usuario": "aluno_ebac@teste.com",
+  "senha": "teste@teste.com",
+  "nome": "Leonardo",
+  "sobrenome": "Silva",
+  "empresa": "EBAC",
+  "pais": "Brasil",
+  "endereco": "Av Brasil",
+  "numero": "1025",
+  "cidade": "Rio de Janeiro",
+  "estado": "Rio de Janeiro",
+  "cep": "22222222",
+  "telefone": "21973518477"
+}
